@@ -32,7 +32,7 @@ const Features = () => {
             <div className="max-w-[1280px] mx-auto px-6 relative z-10">
                 <div className="flex flex-col md:flex-row gap-16 items-start">
                     {/* Header */}
-                    <div className="md:w-1/3 sticky top-32">
+                    <div className="md:w-1/3 md:sticky md:top-32">
                         <span className="text-artium-gold font-bold uppercase tracking-widest text-sm mb-4 block">
                             Por qué elegirnos
                         </span>

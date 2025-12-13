@@ -20,7 +20,7 @@ const AboutUs = () => {
                             <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
                             <div className="absolute bottom-8 left-8">
                                 <h3 className="text-white font-display text-2xl font-bold">Rodrigo & Juan Pablo</h3>
-                                <p className="text-artium-gold text-sm uppercase tracking-widest mt-2">Fundadores & Maestros Carpinteros</p>
+                                <p className="text-artium-gold text-sm uppercase tracking-widest mt-2">Unidos por la pasión del oficio</p>
                             </div>
                         </div>
                         {/* Decorative frame */}
