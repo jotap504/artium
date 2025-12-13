@@ -11,13 +11,10 @@ const FloatingQuoteButton = () => {
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
         >
-            <span className={`whitespace-nowrap font-bold text-sm overflow-hidden transition-all duration-300 ${isHovered ? 'w-auto opacity-100' : 'w-0 opacity-0'
-                }`}>
+            <span className={`whitespace-nowrap font-bold text-sm overflow-hidden transition-all duration-300 ${isHovered ? 'w-auto opacity-100' : 'w-0 opacity-0'}`}>
                 Solicitar Cotización
             </span>
-            <div className="size-10 flex items-center justify-center rounded-full bg-black text-artium-gold">
-                <span className="material-symbols-outlined text-xl">request_quote</span>
-            </div>
+            <span className="material-symbols-outlined text-2xl text-black">request_quote</span>
         </a>
     );
 };
