@@ -100,7 +100,7 @@ const AdminDashboard = ({ projects, setProjects, onLogout }) => {
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
 
                     {/* Form Section */}
-                    <div className="lg:col-span-4 h-fit sticky top-32">
+                    <div className="lg:col-span-4 h-fit lg:sticky lg:top-32">
                         <div className="bg-surface/30 border border-white/5 p-8 rounded-lg shadow-xl">
                             <h2 className="text-xl font-display font-bold text-white mb-6 flex items-center gap-2">
                                 <span className="material-symbols-outlined text-artium-gold">edit_square</span>
