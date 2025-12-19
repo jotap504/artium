@@ -9,7 +9,7 @@ const steps = [
     {
         number: '02',
         title: 'Diseño & Propuesta',
-        description: 'Creamos renders 3D detallados y seleccionamos materiales para tu aprobación.'
+        description: 'Creamos un diseño detallado para vos, apoyados en IA para hacer un fotomontaje real de tu espacio a renovar, en materiales Premium.'
     },
     {
         number: '03',

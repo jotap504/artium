@@ -4,7 +4,7 @@ const features = [
     {
         icon: 'diamond',
         title: 'Diseño Exclusivo',
-        description: 'Cada pieza es única, diseñada específicamente para adaptarse a tu estilo y necesidades espaciales.'
+        description: 'Cada pieza es única, diseñada específicamente para adaptarse a tu estilo y necesidades especiales.'
     },
     {
         icon: 'handyman',
@@ -14,7 +14,7 @@ const features = [
     {
         icon: 'forest',
         title: 'Materiales Premium',
-        description: 'Seleccionamos solo maderas nobles y herrajes de primera calidad para garantizar durabilidad.'
+        description: 'Seleccionamos Melaminas de alta calidad, Maderas macizas y materiales en tendencia y herrajes de primera calidad para garantizar durabilidad.'
     },
     {
         icon: 'verified',

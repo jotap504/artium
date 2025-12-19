@@ -64,7 +64,6 @@ const ContactForm = () => {
                                     <span className="material-symbols-outlined text-artium-gold">location_on</span>
                                 </div>
                                 <div>
-                                    <p className="text-white font-medium">Visitanos</p>
                                     <p className="text-gray-400 text-sm">Av. Militar 3710, Ciudadela</p>
                                 </div>
                             </div>

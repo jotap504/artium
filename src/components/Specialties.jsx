@@ -48,7 +48,7 @@ const Specialties = () => {
                         Nuestras Especialidades
                     </span>
                     <h2 className="text-4xl md:text-5xl font-display text-white leading-tight">
-                        Exquisitez en cada <span className="font-serif italic text-gray-400">Rincón.</span>
+                        Elegancia en cada <span className="font-serif italic text-gray-400">Rincón.</span>
                     </h2>
                 </div>
 
