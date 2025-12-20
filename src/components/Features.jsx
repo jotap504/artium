@@ -8,8 +8,8 @@ const features = [
     },
     {
         icon: 'handyman',
-        title: 'Artesanía Experta',
-        description: 'Construidos por maestros carpinteros con décadas de experiencia en ebanistería fina.'
+        title: 'Alta Carpintería',
+        description: 'Mobiliario de gama alta diseñado con precisión y materiales seleccionados para perdurar.'
     },
     {
         icon: 'forest',
